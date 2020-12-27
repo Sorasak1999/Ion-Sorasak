@@ -1,0 +1,7 @@
+{
+  "name": "Ion-sorasak",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
